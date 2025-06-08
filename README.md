@@ -35,3 +35,4 @@ A powerful Python-based tool that analyzes raw email headers to detect spoofing,
     "❌ DMARC failed"
   ]
 }
+Installation ➡️ https://github.com/Mayankkumar-2067/email-header-analyzer.git

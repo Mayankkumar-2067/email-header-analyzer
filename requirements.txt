@@ -1,0 +1,4 @@
+requests
+ipwhois
+colorama
+python-dotenv
